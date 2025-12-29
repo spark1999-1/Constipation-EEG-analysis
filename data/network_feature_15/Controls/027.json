@@ -1,0 +1,218 @@
+{
+  "Resting task": {
+    "Delta": {
+      "Global Efficiency": 0.5403439153439111,
+      "Local Efficiency": 0.31916198203158663,
+      "Average Clustering Coefficient": 0.1924775716302587
+    },
+    "Theta": {
+      "Global Efficiency": 0.529927248677241,
+      "Local Efficiency": 0.2727910432047671,
+      "Average Clustering Coefficient": 0.1562378334546001
+    },
+    "Alpha": {
+      "Global Efficiency": 0.5419146825396816,
+      "Local Efficiency": 0.3024009027395206,
+      "Average Clustering Coefficient": 0.17063248790248767
+    },
+    "Beta": {
+      "Global Efficiency": 0.549892526455024,
+      "Local Efficiency": 0.3290482153399915,
+      "Average Clustering Coefficient": 0.190045019051564
+    },
+    "Gamma": {
+      "Global Efficiency": 0.5407159391534357,
+      "Local Efficiency": 0.3175473081415402,
+      "Average Clustering Coefficient": 0.1990997512173499
+    }
+  },
+  "Counting task 1": {
+    "Delta": {
+      "Global Efficiency": 0.5431960978835921,
+      "Local Efficiency": 0.4236610065378592,
+      "Average Clustering Coefficient": 0.25850281195088315
+    },
+    "Theta": {
+      "Global Efficiency": 0.5265128968253902,
+      "Local Efficiency": 0.4223191972739119,
+      "Average Clustering Coefficient": 0.3050217313634433
+    },
+    "Alpha": {
+      "Global Efficiency": 0.5113591269841232,
+      "Local Efficiency": 0.38906038157915757,
+      "Average Clustering Coefficient": 0.2537941229383686
+    },
+    "Beta": {
+      "Global Efficiency": 0.43520171957671705,
+      "Local Efficiency": 0.4925654984258429,
+      "Average Clustering Coefficient": 0.37823831120777407
+    },
+    "Gamma": {
+      "Global Efficiency": 0.360201719576719,
+      "Local Efficiency": 0.39795212116300227,
+      "Average Clustering Coefficient": 0.2858212009221107
+    }
+  },
+  "Word formation task": {
+    "Delta": {
+      "Global Efficiency": 0.5417906746031723,
+      "Local Efficiency": 0.3122841700015572,
+      "Average Clustering Coefficient": 0.18535270376203072
+    },
+    "Theta": {
+      "Global Efficiency": 0.5299685846560823,
+      "Local Efficiency": 0.30577772899139444,
+      "Average Clustering Coefficient": 0.17752216356946382
+    },
+    "Alpha": {
+      "Global Efficiency": 0.5373677248677226,
+      "Local Efficiency": 0.24852968945121431,
+      "Average Clustering Coefficient": 0.13995850689225045
+    },
+    "Beta": {
+      "Global Efficiency": 0.5466269841269831,
+      "Local Efficiency": 0.3828103783003873,
+      "Average Clustering Coefficient": 0.22768577903086196
+    },
+    "Gamma": {
+      "Global Efficiency": 0.5330687830687799,
+      "Local Efficiency": 0.46770442291396774,
+      "Average Clustering Coefficient": 0.29042765695896494
+    }
+  },
+  "Counting task 2": {
+    "Delta": {
+      "Global Efficiency": 0.47805059523808807,
+      "Local Efficiency": 0.3543435234743992,
+      "Average Clustering Coefficient": 0.2028884778464975
+    },
+    "Theta": {
+      "Global Efficiency": 0.5364169973544941,
+      "Local Efficiency": 0.34833312181731,
+      "Average Clustering Coefficient": 0.21399831041838863
+    },
+    "Alpha": {
+      "Global Efficiency": 0.5370783730158672,
+      "Local Efficiency": 0.27795982078562814,
+      "Average Clustering Coefficient": 0.1694741149323697
+    },
+    "Beta": {
+      "Global Efficiency": 0.538111772486769,
+      "Local Efficiency": 0.35706690290193643,
+      "Average Clustering Coefficient": 0.21708524682226862
+    },
+    "Gamma": {
+      "Global Efficiency": 0.5690310846560834,
+      "Local Efficiency": 0.6262786487136369,
+      "Average Clustering Coefficient": 0.42683350228387484
+    }
+  },
+  "Imaginary defecation task": {
+    "Delta": {
+      "Global Efficiency": 0.5218667328042278,
+      "Local Efficiency": 0.2973291194615437,
+      "Average Clustering Coefficient": 0.18700767873342206
+    },
+    "Theta": {
+      "Global Efficiency": 0.5341848544973505,
+      "Local Efficiency": 0.16799721845617252,
+      "Average Clustering Coefficient": 0.1054037204034785
+    },
+    "Alpha": {
+      "Global Efficiency": 0.5257523148148128,
+      "Local Efficiency": 0.2880545497741419,
+      "Average Clustering Coefficient": 0.15609894162586205
+    },
+    "Beta": {
+      "Global Efficiency": 0.5008680555555515,
+      "Local Efficiency": 0.32260759873120237,
+      "Average Clustering Coefficient": 0.17750925786934446
+    },
+    "Gamma": {
+      "Global Efficiency": 0.4955357142857088,
+      "Local Efficiency": 0.20884741871394685,
+      "Average Clustering Coefficient": 0.12340661600671994
+    }
+  },
+  "Simulated defecation task": {
+    "Delta": {
+      "Global Efficiency": 0.5312665343915296,
+      "Local Efficiency": 0.16178472087177098,
+      "Average Clustering Coefficient": 0.0974753872610877
+    },
+    "Theta": {
+      "Global Efficiency": 0.5259176587301557,
+      "Local Efficiency": 0.17699360620753904,
+      "Average Clustering Coefficient": 0.1001712099942372
+    },
+    "Alpha": {
+      "Global Efficiency": 0.5618386243386242,
+      "Local Efficiency": 0.2384106327927291,
+      "Average Clustering Coefficient": 0.14818424348877243
+    },
+    "Beta": {
+      "Global Efficiency": 0.5409226190476188,
+      "Local Efficiency": 0.6230748050318358,
+      "Average Clustering Coefficient": 0.4311734352928526
+    },
+    "Gamma": {
+      "Global Efficiency": 0.5252976190476171,
+      "Local Efficiency": 0.5976779337393032,
+      "Average Clustering Coefficient": 0.39035161184245254
+    }
+  },
+  "Imaginary anal contraction task": {
+    "Delta": {
+      "Global Efficiency": 0.5232721560846519,
+      "Local Efficiency": 0.2195364336216501,
+      "Average Clustering Coefficient": 0.14893093980655572
+    },
+    "Theta": {
+      "Global Efficiency": 0.5458416005290966,
+      "Local Efficiency": 0.23723286096001014,
+      "Average Clustering Coefficient": 0.13740005185817034
+    },
+    "Alpha": {
+      "Global Efficiency": 0.5406746031745995,
+      "Local Efficiency": 0.2772896933911225,
+      "Average Clustering Coefficient": 0.16255098278736638
+    },
+    "Beta": {
+      "Global Efficiency": 0.4993386243386205,
+      "Local Efficiency": 0.37807216188166265,
+      "Average Clustering Coefficient": 0.23210975580218998
+    },
+    "Gamma": {
+      "Global Efficiency": 0.5369130291005245,
+      "Local Efficiency": 0.40935829924105416,
+      "Average Clustering Coefficient": 0.2581089582457039
+    }
+  },
+  "Simulated anal contraction task": {
+    "Delta": {
+      "Global Efficiency": 0.535466269841265,
+      "Local Efficiency": 0.4069718075744387,
+      "Average Clustering Coefficient": 0.25039660396913216
+    },
+    "Theta": {
+      "Global Efficiency": 0.5559689153439137,
+      "Local Efficiency": 0.4948622896702392,
+      "Average Clustering Coefficient": 0.3263977499483497
+    },
+    "Alpha": {
+      "Global Efficiency": 0.5394841269841236,
+      "Local Efficiency": 0.3596848377906274,
+      "Average Clustering Coefficient": 0.21906929854693538
+    },
+    "Beta": {
+      "Global Efficiency": 0.535590277777774,
+      "Local Efficiency": 0.22959282029929823,
+      "Average Clustering Coefficient": 0.1349050728018498
+    },
+    "Gamma": {
+      "Global Efficiency": 0.5209986772486734,
+      "Local Efficiency": 0.5202713172006767,
+      "Average Clustering Coefficient": 0.3299288952760891
+    }
+  }
+}
